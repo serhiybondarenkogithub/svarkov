@@ -1,0 +1,50 @@
+[
+    {
+        "id": "vorota_card",
+        "heading": "Ворота",
+        "description": "",
+        "image": "/imgs/gallery_cards/vorota_card.jpg"
+    },
+    {
+        "id": "zabory_card",
+        "heading": "Забори",
+        "description": "",
+        "image": "/imgs/gallery_cards/zabory_card.jpg"
+    },
+    {
+        "id": "navisy_card",
+        "heading": "Навіси",
+        "description": "",
+        "image": "/imgs/gallery_cards/navisy_card.jpg"
+    },
+    {
+        "id": "shody_card",
+        "heading": "Сходи",
+        "description": "",
+        "image": "/imgs/gallery_cards/shody_card.jpg"
+    },
+    {
+        "id": "graty_card",
+        "heading": "Решітки",
+        "description": "",
+        "image": "/imgs/gallery_cards/graty_card.jpg"
+    },
+    {
+        "id": "hotovi_vyroby_card",
+        "heading": "Готові вироби",
+        "description": "",
+        "image": "/imgs/gallery_cards/hotovi_vyroby_card.jpg"
+    },
+    {
+        "id": "peryla_card",
+        "heading": "Перила",
+        "description": "",
+        "image": "/imgs/gallery_cards/peryla_card.jpg"
+    },
+    {
+        "id": "balkony_card",
+        "heading": "Балкони",
+        "description": "",
+        "image": "/imgs/gallery_cards/balkony_card.jpg"
+    }
+  ]
